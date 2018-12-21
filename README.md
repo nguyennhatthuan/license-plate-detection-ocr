@@ -26,4 +26,7 @@ Tâm sự:
 -   Project của mình sử dụng thuần Javascript, cụ thể là OpenCV4Nodejs và Tesseract.js cho việc ocr
 -   Đống shit này mình chưa clean code. Chỉ mới code cho chạy theo mình muốn trước, chưa clean up nó.
 -   Tất nhiên độ chính xác nó cũng chưa thật sự cao, các bạn có thể optimize theo ý mình
--   Đây là open source, các bạn có thể clone / folk đóng góp để làm 1 bản cho cộng đồng và cho chính các bạn.
+-   Đây là open source, các bạn có thể clone / fork đóng góp để làm 1 bản cho cộng đồng và cho chính các bạn.
+
+Thuan Nguyen @ Dec - 21 - 2018
+E: nhatthuandiend@gmail.com
