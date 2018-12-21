@@ -1,0 +1,38 @@
+{
+    "name": "surveyor-ocr",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "author": "RnD Team @ Unicorn",
+    "license": "ISC",
+    "dependencies": {
+        "acorn": "^6.0.4",
+        "array-subtract": "^2.0.0",
+        "express": "^4.16.4",
+        "formidable": "^1.2.1",
+        "lodash": "^4.17.11",
+        "numjs": "^0.16.0",
+        "opencv4nodejs": "^4.11.0",
+        "path": "^0.12.7",
+        "rimraf": "^2.6.2",
+        "subtractly": "^1.0.3",
+        "tesseract.js": "^1.0.14",
+        "uuid": "^3.3.2",
+        "xml2json": "^0.11.2"
+    },
+    "devDependencies": {
+        "@types/node": "10.10.2",
+        "@types/restify": "7.2.4",
+        "eslint": "^5.6.0",
+        "eslint-config-standard": "^12.0.0",
+        "eslint-plugin-import": "^2.14.0",
+        "eslint-plugin-node": "^7.0.1",
+        "eslint-plugin-promise": "^4.0.1",
+        "eslint-plugin-standard": "^4.0.0",
+        "nodemon": "^1.18.4"
+    }
+}
