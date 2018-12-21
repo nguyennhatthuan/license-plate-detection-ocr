@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon index.js"
     },
-    "author": "RnD Team @ Unicorn",
+    "author": "Thuan Nguyen",
     "license": "ISC",
     "dependencies": {
         "acorn": "^6.0.4",
